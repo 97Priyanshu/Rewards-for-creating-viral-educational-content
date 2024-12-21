@@ -7,6 +7,9 @@ The "Rewards for Creating Viral Educational Content" project is designed to ince
 ## Contract Address
 0xf8E6365Df6E4C71A70A13469665D365448D509E8
 
+![image](https://github.com/user-attachments/assets/a7d9ea6c-4c80-40b8-a7a6-d94918f0e1a6)
+
+
 ## Project Vision
 Our vision is to enhance the quality and accessibility of educational content available online. By rewarding creators for producing impactful and widely shared educational materials, we hope to foster a culture of learning and knowledge sharing that benefits a global audience.
 
